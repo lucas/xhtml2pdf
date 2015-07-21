@@ -2,6 +2,9 @@
 xhtml2pdf
 *********
 
+    This was forked because the original repo had some checkins to add "python3 support" which broke existing python2 support
+    -lucas
+
 THIS PROJECT WAS INHERITED BY NECESSITY - PLEASE DO NOT CONTACT ME DIRECTLY
 FOR HELP BUT USE THE MAILING LIST INSTEAD.
 
